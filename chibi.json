@@ -1,0 +1,226 @@
+[
+  {
+    "id": "chibi_cong_chua_toc_may",
+    "name": "Siêu Trạng Nhí",
+    "image": "app_logo.png",
+    "sub": "",
+    "price": 0,
+    "trialPrice": 0,
+    "config": {
+      "hair": "hair_ngan_bupbe",
+      "outfit": "outfit_ao_dai_hoa",
+      "glasses": "glasses_none",
+      "accessory": "acc_bom_hoa"
+    }
+  },
+  {
+    "id": "chibi_co_be_de_thuong",
+    "name": "Cô bé dễ thương",
+    "image": "chibi_trang_vui_tinh.png",
+    "sub": "",
+    "price": 0,
+    "trialPrice": 0,
+    "config": {
+      "hair": "hair_ngan_bupbe",
+      "outfit": "outfit_ao_dai_hoa",
+      "glasses": "glasses_none",
+      "accessory": "acc_no_cai_toc"
+    }
+  },
+  {
+    "id": "chibi_hoang_tu",
+    "name": "Hoàng tử hào hoa",
+    "image": "chibi_hoang_tu.png",
+    "sub": "",
+    "price": 0,
+    "trialPrice": 0,
+    "config": {
+      "hair": "hair_lang_tu",
+      "outfit": "outfit_hoc_sinh",
+      "glasses": "glasses_none",
+      "accessory": "acc_no_cai_toc"
+    }
+  },
+  {
+    "id": "chibi_chu_be_de_thuong",
+    "name": "Chú bé dễ thương",
+    "image": "chu_be_de_thuong.png",
+    "sub": "",
+    "price": 500,
+    "trialPrice": 100,
+    "config": {
+      "hair": "hair_lang_tu",
+      "outfit": "outfit_hoc_sinh",
+      "glasses": "glasses_none",
+      "accessory": "acc_no_cai_toc"
+    }
+  },
+  {
+    "id": "chibi_co_be_no_do",
+    "name": "Cô bé nơ đỏ",
+    "image": "co_be_no_do.png",
+    "sub": "",
+    "price": 500,
+    "trialPrice": 150,
+    "config": {
+      "hair": "hair_bim_no",
+      "outfit": "outfit_ao_dai_hoa",
+      "glasses": "glasses_none",
+      "accessory": "acc_no_cai_toc"
+    }
+  },
+  {
+    "id": "chibi_be_cute",
+    "name": "Bé cute siêu cấp",
+    "image": "be_cute.png",
+    "sub": "",
+    "price": 600,
+    "trialPrice": 150,
+    "config": {
+      "hair": "hair_ngan_bupbe",
+      "outfit": "outfit_ao_dai_hoa",
+      "glasses": "glasses_none",
+      "accessory": "acc_kep_buom"
+    }
+  },
+  {
+    "id": "chibi_be_tho",
+    "name": "Bé thỏ hồng xinh",
+    "image": "be_tho.png",
+    "sub": "",
+    "price": 600,
+    "trialPrice": 200,
+    "config": {
+      "hair": "hair_ngan_bupbe",
+      "outfit": "outfit_ao_dai_hoa",
+      "glasses": "glasses_none",
+      "accessory": "acc_tai_gau"
+    }
+  },
+  {
+    "id": "chibi_co_be_kem",
+    "name": "Cô bé kem ngọt ngào",
+    "image": "co_be_kem.png",
+    "sub": "",
+    "price": 700,
+    "trialPrice": 200,
+    "config": {
+      "hair": "hair_ngan_bupbe",
+      "outfit": "outfit_ao_dai_hoa",
+      "glasses": "glasses_none",
+      "accessory": "acc_mu_sinh_nhat"
+    }
+  },
+  {
+    "id": "chibi_cau_be_vui_ve",
+    "name": "Cậu bé vui vẻ",
+    "image": "cau_be_vui_ve.png",
+    "sub": "",
+    "price": 700,
+    "trialPrice": 200,
+    "config": {
+      "hair": "hair_lang_tu",
+      "outfit": "outfit_hoc_sinh",
+      "glasses": "glasses_none",
+      "accessory": "acc_no_cai_toc"
+    }
+  },
+  {
+    "id": "chibi_cau_be_am_ap",
+    "name": "Cậu bé ấm áp",
+    "image": "cau_be_am_ap.png",
+    "sub": "",
+    "price": 800,
+    "trialPrice": 250,
+    "config": {
+      "hair": "hair_lang_tu",
+      "outfit": "outfit_hoc_sinh",
+      "glasses": "glasses_none",
+      "accessory": "acc_no_cai_toc"
+    }
+  },
+  {
+    "id": "chibi_co_be_xinh_xan",
+    "name": "Cô bé xinh xắn",
+    "image": "co_be_xinh_xan.png",
+    "sub": "",
+    "price": 800,
+    "trialPrice": 250,
+    "config": {
+      "hair": "hair_ngan_bupbe",
+      "outfit": "outfit_ao_dai_hoa",
+      "glasses": "glasses_none",
+      "accessory": "acc_no_cai_toc"
+    }
+  },
+  {
+    "id": "chibi_co_be_toc_dai",
+    "name": "Cô bé tóc dài",
+    "image": "co_be_toc_dai.png",
+    "sub": "",
+    "price": 800,
+    "trialPrice": 250,
+    "config": {
+      "hair": "hair_bim_no",
+      "outfit": "outfit_ao_dai_hoa",
+      "glasses": "glasses_none",
+      "accessory": "acc_bom_hoa"
+    }
+  },
+  {
+    "id": "chibi_nu_sinh_ao_dai",
+    "name": "Nữ sinh áo dài hồng",
+    "image": "co_be_ao_dai.png",
+    "sub": "",
+    "price": 900,
+    "trialPrice": 300,
+    "config": {
+      "hair": "hair_bim_no",
+      "outfit": "outfit_ao_dai_hoa",
+      "glasses": "glasses_none",
+      "accessory": "acc_bom_hoa"
+    }
+  },
+  {
+    "id": "chibi_cau_be_dang_yeu",
+    "name": "Cậu bé đáng yêu",
+    "image": "cau_be_dang_yeu.png",
+    "sub": "",
+    "price": 900,
+    "trialPrice": 300,
+    "config": {
+      "hair": "hair_lang_tu",
+      "outfit": "outfit_hoc_sinh",
+      "glasses": "glasses_none",
+      "accessory": "acc_no_cai_toc"
+    }
+  },
+  {
+    "id": "chibi_cong_chua_vay_xanh",
+    "name": "Công chúa váy xanh",
+    "image": "cong_chua_vay_xanh.png",
+    "sub": "",
+    "price": 1000,
+    "trialPrice": 300,
+    "config": {
+      "hair": "hair_bim_no",
+      "outfit": "outfit_da_hoi",
+      "glasses": "glasses_none",
+      "accessory": "acc_bom_hoa"
+    }
+  },
+  {
+    "id": "chibi_co_be_nhut_nhat",
+    "name": "Cô bé e ấp",
+    "image": "co_be_nhut_nhat.png",
+    "sub": "",
+    "price": 1000,
+    "trialPrice": 300,
+    "config": {
+      "hair": "hair_ngan_bupbe",
+      "outfit": "outfit_ao_dai_hoa",
+      "glasses": "glasses_none",
+      "accessory": "acc_no_cai_toc"
+    }
+  }
+]
